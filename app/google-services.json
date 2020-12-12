@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81640249887",
+    "firebase_url": "https://student-announcement-sys-49dd4.firebaseio.com",
+    "project_id": "student-announcement-sys-49dd4",
+    "storage_bucket": "student-announcement-sys-49dd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81640249887:android:879e78fb73520bb44c132a",
+        "android_client_info": {
+          "package_name": "com.example.studentannouncementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81640249887-ekmeupbks880ch5rihq2tl7kf9bumesc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentannouncementsystem",
+            "certificate_hash": "2f64347006f9a7449b66e571ad31f3bef9858a23"
+          }
+        },
+        {
+          "client_id": "81640249887-toch5nnpol6raco67bt50nor906r547n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_fwSCdShJ88tHW4qDwTBTOMNV93VJ64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81640249887-toch5nnpol6raco67bt50nor906r547n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
